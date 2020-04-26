@@ -1,13 +1,13 @@
 package domain;
 import java.util.Arrays;
 
-/
+/**
  * Main class
  * @author Artem Pronenko
  */
 
 public class Exercise {
- /
+ /**
   * Main method for determining the second largest number in an array
   * @param arr[]
   * @return 
